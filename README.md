@@ -1,1 +1,1 @@
-# diamond-price-analysis
+# Diamond Price Analysis
